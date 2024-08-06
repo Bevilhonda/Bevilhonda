@@ -9,7 +9,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologi
 - 💼 Trabalho em projetos de **desenvolvimento web** e **banco de dados**.
 
 ## Contato
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)
+- LinkedIn: [(https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)]
 - E-mail: marcelinyuri@gmail.com
 
 
@@ -19,8 +19,11 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologi
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical)
+
+
 ## Languages & Tools 🛠️
 
 
