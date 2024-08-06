@@ -3,14 +3,15 @@
 ## Hi, I'm Marcelo Bevilacqua De Andrade 💻
 
 ## Sobre Mim
-Sou um desenvolvedor apaixonado por criar soluções inovadoras usando tecnologias modernas. Tenho experiência em HTML, CSS, JavaScript,Java + Spring Boot.
+Sou um desenvolvedor iniciante mas apaixonado por criar soluções inovadoras usando tecnologias modernas. Tenho experiência em HTML, CSS, JavaScript,Java + Spring Boot.
+Iniciei o aprendizado em Kotlin e React neste ano de 2024.
 
 - 🌱 Atualmente estou aprendendo **React** e **Kotlin**.
 - 💼 Trabalho em projetos de **desenvolvimento web** e **banco de dados**.
 
 ## Contato
 - LinkedIn: [(https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)]
-- E-mail: marcelinyuri@gmail.com
+
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
