@@ -21,7 +21,7 @@ Iniciei o aprendizado em Kotlin e React neste ano de 2024.
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=\Bevilhondavg&layout=compact&langs_count=7&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" />
 
 
 ## Languages & Tools 🛠️
