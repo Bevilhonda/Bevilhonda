@@ -9,7 +9,7 @@ Iniciei o aprendizado em Kotlin e React neste ano de 2024.
 - 🌱 Atualmente estou aprendendo **React** e **Kotlin**.
 - 💼 Trabalho em projetos de **desenvolvimento web** e **banco de dados**.
 
-
+![snake gif](https://github.com/Bevilhonda/Bevilhonda/blob/output/github-contribution-grid-snake.svg)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
