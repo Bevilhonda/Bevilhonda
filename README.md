@@ -17,11 +17,14 @@ Iniciei o aprendizado em Kotlin e React neste ano de 2024.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+<div style="text-align: center;">
+  <h2>Estatísticas do GitHub</h2>
+  
+  ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical)
 
-## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" />
+</div>
+<br>
 
 
 ## Languages & Tools 🛠️
