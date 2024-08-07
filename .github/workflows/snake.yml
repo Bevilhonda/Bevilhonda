@@ -36,7 +36,7 @@ svg_out_path: dist/github-contribution-grid-snake.svg
 
 with:
 
-target_branch: output
+target_branch: gh-pages
 
 build_dir: dist
 
