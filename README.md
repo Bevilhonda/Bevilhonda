@@ -22,6 +22,12 @@ Iniciei o aprendizado em Kotlin e React neste ano de 2024.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" alt="Linguagens mais utilizadas">
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bevilhonda/Bevilhonda/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bevilhonda/Bevilhonda/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bevilhonda/Bevilhonda/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 ## Languages & Tools 🛠️
@@ -36,4 +42,5 @@ Iniciei o aprendizado em Kotlin e React neste ano de 2024.
 
 ## Find me 🔍
 [![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)
+
 
