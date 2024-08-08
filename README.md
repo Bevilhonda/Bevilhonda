@@ -3,11 +3,11 @@
 ## Hi, I'm Marcelo Bevilacqua De Andrade 💻
 
 ## About me....
-Sou um desenvolvedor iniciante mas apaixonado por criar soluções inovadoras usando tecnologias modernas. Tenho experiência em HTML, CSS, JavaScript,Java + Spring Boot.
-Iniciei o aprendizado em Kotlin e React neste ano de 2024.
+I'm a beginner developer but passionate about creating innovative solutions using modern technologies. I have experience in HTML, CSS, JavaScript, Java + Spring Boot.
+I started learning Kotlin and React in 2024.
 
-- 🌱 Atualmente estou aprendendo **React** e **Kotlin**.
-- 💼 Trabalho em projetos de **desenvolvimento web** e **banco de dados**.
+- 🌱 I'm currently starting to learn **React / Angular ** e **Kotlin**.
+- 💼 Work on **web development** and **database** projects.
 
 
 
