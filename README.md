@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia desde cedo — sim, já tive um computador TK3000 
 
 Estou sempre buscando atualizar meus conhecimentos e desenvolver projetos voltados para desenvolvimento web, APIs REST e aplicações full stack.
 
-- 🌱 Atualmente pratico **React**, **Angular**, **Kotlin** e aprofundamento em **Java + Spring Boot**.
+- 🌱 Atualmente pratico **React**, **Angular**,e aprofundamento em **Java + Spring Boot**.
 - 💼 Busco oportunidades como **Web Developer**.
 - 🚀 Percorra meus repositórios e descubra meus projetos.
 
