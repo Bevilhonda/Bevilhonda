@@ -20,6 +20,7 @@ projetos....
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" alt="Linguagens mais utilizadas">
 </div>
 
