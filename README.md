@@ -24,8 +24,8 @@ Estou sempre buscando atualizar meus conhecimentos e desenvolver projetos voltad
 ## 📊 Estatísticas & Linguagens
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bevilhonda&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bevilhonda&layout=compact&langs_count=7&theme=react" />
 </p>
 
 <p align="center">
