@@ -1,13 +1,14 @@
 
 
-## Hi, I'm Marcelo Bevilacqua De Andrade 💻
+## Olá sou o Marcelo Bevilacqua De Andrade 💻
 
-## About me....
-I'm a beginner developer but passionate about creating innovative solutions using modern technologies. I have experience in HTML, CSS, JavaScript, Java + Spring Boot.
-I started learning Kotlin and React in 2024.
+## Sobre...
+Sou apaixonado por tecnologias, eu já tive um computador TK3000, é serio tá....
+Estou sempre buscando atualizar meus conhecimentos..
 
-- 🌱 I'm currently starting to learn **React**, **Angular** e **Kotlin**.
-- 💼 Work on **web development** and **database** projects.
+- 🌱 Atualmente pratico **React**, **Angular** e **Kotlin**.
+- 💼 Busco trabalhar como **web development**..Percorra meus repositórios e descubra meus 
+projetos....
 
 
 
@@ -42,6 +43,8 @@ I started learning Kotlin and React in 2024.
 [![Linux](https://img.shields.io/badge/-05122A?logo=linux&logoColor=white)](https://www.linux.org)
 
 ## Find me 🔍
+
 [![Linkedin](https://img.shields.io/badge/-05122A?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-bevilacqua-de-andrade-443097235/)
 
 
+## Obrigado pela visita volte sempre....
