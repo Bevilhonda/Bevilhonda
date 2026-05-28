@@ -2,12 +2,12 @@
 
 ## Sobre...
 
-Sou apaixonado por tecnologia desde cedo — sim, já tive um computador TK3000 😄
+Sou apaixonado por tecnologia , e sim, já tive um computador TK3000 😄😄😄..
 
-Estou sempre buscando atualizar meus conhecimentos e desenvolver projetos voltados para desenvolvimento web, APIs REST e aplicações full stack.
+Estou sempre buscando atualizar meus conhecimentos, criei alguns projetos voltados para desenvolvimento web, APIs REST e aplicações full stack.
 
-- 🌱 Atualmente pratico **React**, **Angular**,e aprofundamento em **Java + Spring Boot**.
-- 💼 Busco oportunidades como **Web Developer**.
+- 🌱 Atualmente pratico **React**,e aprofundamento em **Java + Spring Boot**, integração de APIs..
+- 💼 Busco em breve ministrar aulas no Youtube de informática e programação.
 - 🚀 Percorra meus repositórios e descubra meus projetos.
 
 ## Tecnologias 🚀
@@ -18,6 +18,7 @@ Estou sempre buscando atualizar meus conhecimentos e desenvolver projetos voltad
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
